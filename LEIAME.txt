@@ -1,0 +1,23 @@
+# Dashboard de Apuração de Taxa de Performance (pfee) — Fundos CVM
+
+Dashboard interativo desenvolvido em **Streamlit** para acompanhamento diário de cotas, patrimônio líquido e apuração da taxa de performance (*pfee*) por semestre civil contra o CDI (BCB/SGS).
+
+## Pré-requisitos
+
+- Python 3.10 ou superior
+- Bibliotecas necessárias:
+  - `streamlit`
+  - `pandas`
+  - `altair`
+  - `requests`
+
+## Como executar o projeto
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/douglasvdl/Dashboard_pfee.git](https://github.com/douglasvdl/Dashboard_pfee.git)
+   cd Dashboard_pfee
+
+## Abrir o dashboard:
+   streamlit run app.py
+   

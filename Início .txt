@@ -1,0 +1,9 @@
+Primeiro Terminal: 
+cd "C:\Users\Douglas Vidal\Desktop\Case Icatu"
+streamlit run app.py
+
+Segunda Terminal: 
+cd "C:\Users\Douglas Vidal\Desktop\Case Icatu"
+uvicorn api:app --reload
+
+https://github.com/douglasvdl/Dashboard_pfee.git
